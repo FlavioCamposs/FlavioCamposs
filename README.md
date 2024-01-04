@@ -7,9 +7,9 @@
 ### Meu objetivo é me tornar um desenvolvedor Full Stack!!!
 
 Conhecimentos que irei adquirir ao longo da minha jornada:
-- 🐍 Python
-- 🚀 JavaScript
-- 🎨 HTML e CSS
+- 🐍 Python avançado
+- 🚀 JavaScript avançado
+- 🎨 HTML e CSS avançado
 - 📊 Banco de dados como: SQL, MySql, MongoDB
 - 🛠️ Frameworks como: Django, Flask, React, Vue.js
 - 🔗 APIs

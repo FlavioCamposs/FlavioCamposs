@@ -14,6 +14,7 @@ Conhecimentos que irei adquirir ao longo da minha jornada:
 - 🛠️ Frameworks como: Django, Flask, React, Vue.js
 - 🔗 APIs
 - 🔄 Controle de Versão (Git)
+
 E quaisquer outras tecnologias que me ajudarão a me tornar um desenvolvedor Full Stack.
 
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens

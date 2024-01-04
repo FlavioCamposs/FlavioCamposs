@@ -19,4 +19,4 @@ E quaisquer outras tecnologias que me ajudarão a me tornar um desenvolvedor Ful
 
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens
 e ferramentas ao mesmo tempo. Fazendo isso, estudarei de forma
-mais eficiente e chegarei ao meu objetivo 💻🔥📚.
+mais eficiente e chegarei ao meu objetivo, mesmo que demore💻🔥📚.

@@ -21,4 +21,4 @@ Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas a
 tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,
 mesmo que demore💻🔥📚.
 
-### Perfil do instagram onde produzo meus conteúdos: https://www.instagram.com/flaviodev.py/
+### Perfil do instagram onde produzo meus conteúdos: [@flaviodev.py] (https://www.instagram.com/flaviodev.py/)

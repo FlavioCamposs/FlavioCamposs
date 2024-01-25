@@ -7,6 +7,7 @@
 ## Meu objetivo é me tornar um desenvolvedor Full Stack!
 
 Atualmente estou aprendendo a linguagem:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/>
 
 Conhecimentos em:

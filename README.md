@@ -3,6 +3,11 @@
 
 ---
 
+### Objetivo:
+Me tornar um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
+
+---
+
 ### Atualmente estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" widht="100" height="100"/> 
@@ -17,11 +22,6 @@
 - 🛠️ Frameworks como: Django, Flask, React, Vue.js
 - 🔗 APIs
 - 🔄 Controle de Versão (Git)
-
----
-
-### Objetivo:
-Me tornar um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---
 

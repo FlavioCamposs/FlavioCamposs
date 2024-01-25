@@ -16,7 +16,7 @@ Conhecimentos em:
 - 🔄 Controle de Versão (Git)
 - 
 Atualmente estou aprendendo a linguagem:
-<i class="devicon-python-plain-wordmark colored"></i>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
 
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas ao mesmo
 tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,

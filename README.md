@@ -4,8 +4,6 @@
 **FlavioCamposs/FlavioCamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Meu objetivo é me tornar um desenvolvedor Full Stack!
-
 Atualmente estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" widht="100" height="100"/> 

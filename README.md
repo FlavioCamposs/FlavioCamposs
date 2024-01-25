@@ -4,7 +4,7 @@
 ---
 
 ### **Objetivo Profissional:**
-Me tornar um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
+Me tornar um desenvolvedor Full Stack entusiasta por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---
 
@@ -14,14 +14,14 @@ Me tornar um desenvolvedor Full Stack apaixonado por criar soluções inovadoras
 
 ---
 
-### **Conhecimentos em:**
-- 🐍 Python
-- 🚀 JavaScript
-- 🎨 HTML e CSS
-- 📊 Banco de dados como: SQL, MySql, MongoDB
-- 🛠️ Frameworks como: Django, Flask, React, Vue.js
-- 🔗 APIs
-- 🔄 Controle de Versão (Git)
+### **Principais Metas:**
+- 🚀 Desenvolver aplicações web robustas e eficientes.
+- 🎨 Aprofundar conhecimentos em tecnologias front-end, como HTML, CSS e JavaScript.
+- 💻 Explorar o desenvolvimento back-end utilizando Node.js e Python.
+- 🔍 Dominar frameworks e bibliotecas modernas, incluindo React e Vue.js.
+- 🛠️ Integrar-se ao ecossistema de bancos de dados, incluindo SQL e NoSQL.
+- 🔐 Compreender práticas de segurança e otimização de desempenho.
+- 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração.
 
 ---
 

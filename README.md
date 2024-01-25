@@ -20,9 +20,8 @@
 
 ---
 
-Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas ao mesmo
-tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,
-mesmo que demore 🔥🚀.
+### Objetivo:
+Me tornar um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---
 

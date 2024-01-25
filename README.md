@@ -18,9 +18,13 @@
 - 🔗 APIs
 - 🔄 Controle de Versão (Git)
 
+---
+
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas ao mesmo
 tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,
 mesmo que demore 🔥🚀.
+
+---
 
 <div>
 ### Perfil do instagram:

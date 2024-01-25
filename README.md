@@ -1,7 +1,5 @@
 # Olá, me chamo Flávio Campos 👋
-<!--
-**FlavioCamposs/FlavioCamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 ### Atualmente estou aprendendo:
 

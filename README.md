@@ -17,7 +17,7 @@ Conhecimentos em:
 
 - 
 Atualmente estou aprendendo a linguagem:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/>
 
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas ao mesmo
 tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,

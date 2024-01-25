@@ -23,6 +23,8 @@ Me tornar um desenvolvedor Full Stack entusiasta por criar soluções inovadoras
 - 🔐 Compreender práticas de segurança e otimização de desempenho.
 - 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração.
 
+Estou determinado com a jornada de aprendizado contínuo e totalmente comprometido a enfrentar desafios que me permitirão não apenas crescer profissionalmente, mas também deixar uma marca significativa no mundo da tecnologia
+
 ---
 
 ### **Perfil do instagram:**

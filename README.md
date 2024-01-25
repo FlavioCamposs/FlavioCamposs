@@ -6,6 +6,9 @@
 
 ## Meu objetivo é me tornar um desenvolvedor Full Stack!
 
+Atualmente estou aprendendo a linguagem:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/>
+
 Conhecimentos em:
 - 🐍 Python
 - 🚀 JavaScript
@@ -14,10 +17,6 @@ Conhecimentos em:
 - 🛠️ Frameworks como: Django, Flask, React, Vue.js
 - 🔗 APIs
 - 🔄 Controle de Versão (Git)
-
-- 
-Atualmente estou aprendendo a linguagem:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/>
 
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas ao mesmo
 tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,

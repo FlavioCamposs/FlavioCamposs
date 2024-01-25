@@ -1,4 +1,4 @@
-# Olá, eu sou Flávio Campos 👋
+# Olá, me chamo Flávio Campos 👋
 
 <!--
 **FlavioCamposs/FlavioCamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,19 +6,20 @@
 
 ## Meu objetivo é me tornar um desenvolvedor Full Stack!
 
-Conhecimentos que irei adquirir ao longo da minha jornada:
-- 🐍 Python avançado
-- 🚀 JavaScript avançado
-- 🎨 HTML e CSS avançado
+Conhecimentos em:
+- 🐍 Python
+- 🚀 JavaScript
+- 🎨 HTML e CSS
 - 📊 Banco de dados como: SQL, MySql, MongoDB
 - 🛠️ Frameworks como: Django, Flask, React, Vue.js
 - 🔗 APIs
 - 🔄 Controle de Versão (Git)
-
-E quaisquer outras tecnologias que me ajudarão a me tornar um desenvolvedor Full Stack.
+- 
+Atualmente estou aprendendo a linguagem:
+<i class="devicon-python-plain-wordmark colored"></i>
 
 Seguirei uma ordem de estudo, nunca estudarei várias linguagens e ferramentas ao mesmo
 tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetivo,
-mesmo que demore💻🔥📚.
+mesmo que demore 🔥🚀.
 
 ### Perfil do instagram onde produzo meus conteúdos: https://www.instagram.com/flaviodev.py/

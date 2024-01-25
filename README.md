@@ -23,5 +23,6 @@ tempo. Fazendo isso, estudarei de forma mais eficiente e chegarei ao meu objetiv
 mesmo que demore 🔥🚀.
 
 <div>
-### Perfil do instagram: <a href="https://instagram.com/flaviodev.py" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### Perfil do instagram:
+<a href="https://instagram.com/flaviodev.py" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>

@@ -28,4 +28,4 @@ mesmo que demore 🔥🚀.
 <a href="https://instagram.com/flaviodev.py" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-flaviodev.py-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="![octocat-1706192832636](https://github.com/FlavioCamposs/FlavioCamposs/assets/155656601/2f63d3b8-4e8e-4801-a16c-ec94da545868)" widht="100" height="100" />
+<img src="https://github.com/FlavioCamposs/FlavioCamposs/assets/155656601/2f63d3b8-4e8e-4801-a16c-ec94da545868" widht="100" height="100" />

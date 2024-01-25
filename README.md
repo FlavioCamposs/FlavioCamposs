@@ -1,8 +1,6 @@
 # Olá, me chamo Flávio Campos 
 <img src="https://github.com/FlavioCamposs/FlavioCamposs/assets/155656601/2f63d3b8-4e8e-4801-a16c-ec94da545868" widht="200" height="200"/>
 
-##
-
 ### Atualmente estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" widht="100" height="100"/> 

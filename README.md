@@ -27,7 +27,7 @@ mesmo que demore 🔥🚀.
 ---
 
 <div>
-<p style="font: 50px;">Perfil do instagram:</p>
+<p>Perfil do instagram:</p>
   
 <a href="https://instagram.com/flaviodev.py" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-flaviodev.py-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>

@@ -8,7 +8,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" widht="100" height="100"/> 
 
-## Conhecimentos em:
+##
+### Conhecimentos em:
 - 🐍 Python
 - 🚀 JavaScript
 - 🎨 HTML e CSS

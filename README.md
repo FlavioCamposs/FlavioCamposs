@@ -4,11 +4,11 @@
 ---
 
 ### **Objetivo Profissional:**
-Me tornar um desenvolvedor Full Stack entusiasta por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
+Sou desenvolvedor back end com a linguagem Pyhton, e pretendo me tornar um desenvolvedor Full Stack, entusiasta por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---
 
-### **Atualmente estou aprendendo:**
+### **Conhecimentos:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" widht="100" height="100"/> 
 

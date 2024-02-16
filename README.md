@@ -4,7 +4,7 @@
 ---
 
 ### **Objetivo Profissional:**
-Sou desenvolvedor back end com a linguagem Pyhton, e pretendo me tornar um desenvolvedor Full Stack, entusiasta por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
+Sou desenvolvedor back-end com a linguagem Pyhton, e pretendo me tornar um desenvolvedor Full Stack, entusiasta por criar soluções inovadoras e impactantes. Busco aprimorar minhas habilidades tanto no desenvolvimento do lado do cliente quanto do servidor, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---
 

@@ -24,10 +24,3 @@ Sou desenvolvedor back-end com a linguagem Pyhton, e pretendo me tornar um desen
 - 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração.
 
 Estou determinado com a jornada de aprendizado contínuo e totalmente comprometido a enfrentar desafios que me permitirão não apenas crescer profissionalmente, mas também deixar uma marca significativa no mundo da tecnologia 🚀💪
-
----
-
-### **Perfil do instagram:**
-<div>
-<a href="https://instagram.com/flaviodev.py" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-flaviodev.py-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>

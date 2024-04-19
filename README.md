@@ -3,7 +3,7 @@
 
 ---
 
-### **Objetivo Profissional:**
+### **Sobre mim:**
 Sou desenvolvedor back-end com a linguagem Pyhton, entusiasta por criar soluções inovadoras e impactantes. Buscando sempre aprimorar minhas habilidades tanto no desenvolvimento do lado do servidor quanto do cliente, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---

@@ -4,7 +4,7 @@
 ---
 
 ### **Objetivo Profissional:**
-Sou desenvolvedor back-end com a linguagem Pyhton, e pretendo me tornar um desenvolvedor Full Stack, entusiasta por criar soluções inovadoras e impactantes. Buscando sempre aprimorar minhas habilidades tanto no desenvolvimento do lado do servidor quanto do cliente, proporcionando experiências de usuário excepcionais 🔥🚀.
+Sou desenvolvedor back-end com a linguagem Pyhton, entusiasta por criar soluções inovadoras e impactantes. Buscando sempre aprimorar minhas habilidades tanto no desenvolvimento do lado do servidor quanto do cliente, proporcionando experiências de usuário excepcionais 🔥🚀.
 
 ---
 
@@ -16,11 +16,11 @@ Sou desenvolvedor back-end com a linguagem Pyhton, e pretendo me tornar um desen
 
 ### **Principais Metas:**
 - 🚀 Desenvolver aplicações web robustas e eficientes.
-- 🎨 Aprofundar conhecimentos em tecnologias front-end, como HTML, CSS e JavaScript.
-- 💻 Explorar o desenvolvimento back-end utilizando Node.js e Python.
-- 🔍 Dominar frameworks e bibliotecas modernas, incluindo React e Vue.js.
-- 🛠️ Integrar-se ao ecossistema de bancos de dados, incluindo SQL e NoSQL.
-- 🔐 Compreender práticas de segurança e otimização de desempenho.
-- 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração.
+- 💻 Aprofundar conhecimentos em desenvolvimento back-end utilizando Node.js, Python e Django.
+- 🎨 Compreender a integração entre o front-end e o back-end para criar experiências de usuário mais dinâmicas.
+- 🔍 Explorar frameworks e bibliotecas modernas para o desenvolvimento back-end, como Django (Python) e Flask (Python).
+- 🛠️ Integrar-se ao ecossistema de bancos de dados, incluindo SQL e NoSQL, para armazenar e gerenciar dados de forma eficiente.
+- 🔐 Compreender práticas avançadas de segurança e otimização de desempenho no desenvolvimento back-end.
+- 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração específicas para o desenvolvimento back-end.
 
 Estou determinado com a jornada de aprendizado contínuo e totalmente comprometido a enfrentar desafios que me permitirão não apenas crescer profissionalmente, mas também deixar uma marca significativa no mundo da tecnologia 🚀💪

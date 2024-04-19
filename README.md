@@ -18,7 +18,7 @@ Sou desenvolvedor back-end com a linguagem Pyhton, entusiasta por criar soluçõ
 - 🚀 Desenvolver aplicações web robustas e eficientes.
 - 💻 Aprofundar conhecimentos em desenvolvimento back-end utilizando Node.js, Python e Django.
 - 🎨 Compreender a integração entre o front-end e o back-end para criar experiências de usuário mais dinâmicas.
-- 🔍 Explorar frameworks e bibliotecas modernas para o desenvolvimento back-end, como Django (Python) e Flask (Python).
+- 🔍 Explorar frameworks e bibliotecas modernas para o desenvolvimento back-end, como Express.js (Node.js), Django e Flask (Python).
 - 🛠️ Integrar-se ao ecossistema de bancos de dados, incluindo SQL e NoSQL, para armazenar e gerenciar dados de forma eficiente.
 - 🔐 Compreender práticas avançadas de segurança e otimização de desempenho no desenvolvimento back-end.
 - 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração específicas para o desenvolvimento back-end.

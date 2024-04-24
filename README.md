@@ -24,3 +24,7 @@ Sou desenvolvedor back-end com a linguagem Pyhton, entusiasta por criar soluçõ
 - 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração específicas para o desenvolvimento back-end.
 
 Estou determinado com a jornada de aprendizado contínuo e totalmente comprometido a enfrentar desafios que me permitirão não apenas crescer profissionalmente, mas também deixar uma marca significativa no mundo da tecnologia 🚀💪
+
+---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" widht="50" height="50"/>

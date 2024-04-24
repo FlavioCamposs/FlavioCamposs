@@ -27,5 +27,5 @@ Estou determinado com a jornada de aprendizado contínuo e totalmente comprometi
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht="50" height="50"/>
         

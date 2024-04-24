@@ -27,5 +27,5 @@ Estou determinado com a jornada de aprendizado contínuo e totalmente comprometi
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht="50" height="50"/> https://www.linkedin.com/in/fl%C3%A1vio-campos-71a958305/
         

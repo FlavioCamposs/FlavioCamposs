@@ -25,3 +25,10 @@ Sou desenvolvedor front-end com a linguagem JavaScript, entusiasta por criar sol
 - 🤝 Colaborar em projetos de equipe, aprimorando habilidades de comunicação e colaboração específicas para o desenvolvimento front-end.
 
 Estou determinado com a jornada de aprendizado contínuo e totalmente comprometido a enfrentar desafios que me permitirão não apenas crescer profissionalmente, mas também deixar uma marca significativa no mundo da tecnologia 🚀💪
+
+```
+
+**Contatos:**
+
+[E-mail](mailto:flaviobatista2022@hotmail.com)
+

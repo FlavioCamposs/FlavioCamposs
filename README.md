@@ -6,7 +6,7 @@
 ### **Sobre mim:**
 Sou desenvolvedor front-end com a linguagem JavaScript, entusiasta por criar soluções inovadoras e impactantes. Buscando sempre aprimorar minhas habilidades tanto no desenvolvimento do lado do servidor quanto do cliente, proporcionando experiências de usuário excepcionais 🔥🚀. Por um tempo aprendi um pouco da linguagem Python como um hobbie, e recentemente passei a aprender JavaScript \ HTML \ CSS \ React, para ingressar no mercado de trabalho!
 
-Como me encontrar: [E-mail](mailto:flaviobatista2022@hotmail.com), <a href="https://wa.me/87991122454">WhatsApp</a>
+Como me encontrar: [E-mail](mailto:flaviocamposjob@gmail.com), <a href="https://wa.me/87991122454">WhatsApp</a>
 
 ---
 

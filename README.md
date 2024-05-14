@@ -28,7 +28,5 @@ Estou determinado com a jornada de aprendizado contínuo e totalmente comprometi
 
 ---
 
-**Contatos:**
-
-[E-mail](mailto:flaviobatista2022@hotmail.com)
+Como me encontrar: [E-mail](mailto:flaviobatista2022@hotmail.com), <a href="https://wa.me/87991122454">WhatsApp</a>
 

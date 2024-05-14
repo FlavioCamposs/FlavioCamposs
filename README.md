@@ -4,7 +4,7 @@
 ---
 
 ### **Sobre mim:**
-   Sou desenvolvedor front-end com a linguagem JavaScript, entusiasta por criar soluções inovadoras e impactantes. Buscando sempre aprimorar minhas habilidades tanto no desenvolvimento do lado do servidor quanto do cliente, proporcionando experiências de usuário excepcionais 🔥🚀. Por um tempo aprendi um pouco da linguagem Python como um hobbie, e recentemente passei a aprender JavaScript \ HTML \ CSS \ React, para ingressar no mercado de trabalho!
+Sou desenvolvedor front-end com a linguagem JavaScript, entusiasta por criar soluções inovadoras e impactantes. Buscando sempre aprimorar minhas habilidades tanto no desenvolvimento do lado do servidor quanto do cliente, proporcionando experiências de usuário excepcionais 🔥🚀. Por um tempo aprendi um pouco da linguagem Python como um hobbie, e recentemente passei a aprender JavaScript \ HTML \ CSS \ React, para ingressar no mercado de trabalho!
 
 ---
 

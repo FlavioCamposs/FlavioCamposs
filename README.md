@@ -26,7 +26,7 @@ Sou desenvolvedor front-end com a linguagem JavaScript, entusiasta por criar sol
 
 Estou determinado com a jornada de aprendizado contínuo e totalmente comprometido a enfrentar desafios que me permitirão não apenas crescer profissionalmente, mas também deixar uma marca significativa no mundo da tecnologia 🚀💪
 
-```
+---
 
 **Contatos:**
 
